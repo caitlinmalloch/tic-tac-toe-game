@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-![ui preview](./tic-tac-toe-game/tictactoe-ui-preview.png)
+![UI Preview](./tictactoe-ui-preview.png)
 
 A simple game using vanilla JavaScript to practice web-development skills.
 
